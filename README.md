@@ -1,1 +1,1 @@
-# disposable-mail-validator
+# disposable-email-validator
