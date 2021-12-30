@@ -1,3 +1,5 @@
 .idea
 disposable_email_validator.egg-info
 venv
+dist
+disposable_email_validator/__pycache__
