@@ -7,7 +7,7 @@ with open('README.md', 'r', encoding='utf-8') as fh:
 
 setup(
     name='disposable_email_validator',
-    version='0.0.5',
+    version='0.0.6',
     author='Gusarov Vladislav',
     author_email='tech@2dlab.ru',
     description='Python library for disposable email validation',
